@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Azure, AWS and DevSecOps Project**
 
-- 📝 I regularly write articles on [https://medium.com/@eternalamit5](https://medium.com/@eternalamit5)
+- 📝 I occasionally write articles on [https://medium.com/@eternalamit5](https://medium.com/@eternalamit5)
 
 - 💬 Ask me about **anything Azure,AWS, DevSecOps,open-source**
 
