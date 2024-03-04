@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eternalamit5&label=Profile%20views&color=0e75b6&style=flat" alt="eternalamit5" /> </p>
 
-- 🔭 I’m currently working on **Azure, AWS and DevSecOps Project**
+- 🔭 I’m currently working on **Azure, AWS, DevSecOps and Machine Learning Project**
+  
+- 👨‍💻 All of my projects are available at [https://github.com/eternalamit5/My_Projects](https://github.com/eternalamit5/My_Projects)
 
 - 📝 I occasionally write articles on [https://medium.com/@eternalamit5](https://medium.com/@eternalamit5)
 
