@@ -1,7 +1,7 @@
 ![MasterHead](https://ibagroupit.de/wp-content/uploads/2020/06/banner_1300-357_devops.png)
 <h1 align="center">Amit's GitHub World</h1>
 <h3 align="center">A passionate Cloud/DevOps/Machine Learning developer from Germany</h3>
-I'm Amit Kumar Singh, a software engineer specializing in Cloud, DevOps, and Machine Learning, dedicated to tackling challenges in Internet of Things, Edge Computing, and Automation domains. Beyond my professional endeavors, I embody an easygoing nature and a zest for adventure, seeking excitement and new experiences wherever they may be found. 
+I'm Amit Kumar Singh, a software engineer specializing in **Cloud, DevOps, and Machine Learning**, dedicated to tackling challenges in **Internet of Things, Edge Computing, and Automation** domains. Beyond my professional endeavors, I embody an **easygoing nature** and a zest for **adventure**, seeking excitement and new experiences wherever they may be found. 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
