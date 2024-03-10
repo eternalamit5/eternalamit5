@@ -7,7 +7,7 @@ I'm Amit Kumar Singh, a software engineer specializing in <strong>Cloud, DevOps,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eternalamit5&label=Profile%20views&color=0e75b6&style=flat" alt="eternalamit5" /> </p>
 
-- 🔭 I’m currently working on **Azure, AWS, DevSecOps and Machine Learning Project**
+- 🔭 I’m currently working on **Azure, AWS, GCP, DevSecOps and Machine Learning Project**
   
 - 👨‍💻 All of my projects are available at [https://github.com/eternalamit5/My_Projects](https://github.com/eternalamit5/My_Projects)
 
