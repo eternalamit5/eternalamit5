@@ -1,5 +1,5 @@
 ![MasterHead](https://ibagroupit.de/wp-content/uploads/2020/06/banner_1300-357_devops.png)
-<h1 align="center">Hi 👋, I'm Amit Kumar Singh</h1>
+<h1 align="center">Amit's GitHub World</h1>
 <h3 align="center">A passionate Cloud/DevOps/Machine Learning developer from Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
@@ -11,7 +11,7 @@
 
 - 📝 I occasionally write articles on [https://medium.com/@eternalamit5](https://medium.com/@eternalamit5)
 
-- 💬 Ask me about **anything Azure,AWS, DevSecOps,open-source**
+- 💬 Ask me about **anything Azure, AWS, GCP DevSecOps,open-source**
 
 - 📫 How to reach me **eternalamit5@gmail.com**
 
